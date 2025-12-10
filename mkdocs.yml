@@ -3,7 +3,6 @@ theme:
   name: material
 
 nav:
-  - Home: README.md
-  - Test: test.md
-  - Overig:
-      - Git Commands: README.md
+  - Home: index.md
+  - Testpagina: test.md
+  - Git Commands: ../README.md

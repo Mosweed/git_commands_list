@@ -1,0 +1,9 @@
+site_name: Mijn Documentatie
+theme:
+  name: material
+
+nav:
+  - Home: README.md
+  - Test: test.md
+  - Overig:
+      - Git Commands: README.md

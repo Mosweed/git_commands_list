@@ -1,7 +1,0 @@
-site_name: Mijn Documentatie
-theme:
-  name: material
-
-nav:
-  - Home: index.md
-  - Testpagina: test.md
